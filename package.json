@@ -1,0 +1,12 @@
+{
+  "name": "ayandeh-bank",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.2"
+  },
+  "scripts": {
+    "sass-compiled": "sass sass/styles.scss css/styles.min.css --watch"
+  }
+}
